@@ -1,0 +1,650 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=latex 2020.7.30)  31 JUL 2020 02:03
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**template.tex
+(./template.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-06-03>
+(/usr/share/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count167
+\c@section=\count168
+\c@subsection=\count169
+\c@subsubsection=\count170
+\c@paragraph=\count171
+\c@subparagraph=\count172
+\c@figure=\count173
+\c@table=\count174
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+(/usr/share/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/usr/share/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(/usr/share/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(/usr/share/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count175
+\Gm@cntv=\count176
+\c@Gm@tempcnt=\count177
+\Gm@bindingoffset=\dimen135
+\Gm@wd@mp=\dimen136
+\Gm@odd@mp=\dimen137
+\Gm@even@mp=\dimen138
+\Gm@layoutwidth=\dimen139
+\Gm@layoutheight=\dimen140
+\Gm@layouthoffset=\dimen141
+\Gm@layoutvoffset=\dimen142
+\Gm@dimlist=\toks16
+)
+(/usr/share/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+)
+(/usr/share/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
+)
+(/usr/share/texmf-dist/tex/latex/psnfss/palatino.sty
+Package: palatino 2020/03/25 PSNFSS-v9.3 (SPQR) 
+)
+(/usr/share/texmf-dist/tex/latex/microtype/microtype.sty
+Package: microtype 2019/11/18 v2.7d Micro-typographical refinements (RS)
+\MT@toks=\toks19
+\MT@count=\count178
+LaTeX Info: Redefining \textls on input line 790.
+\MT@outer@kern=\dimen143
+LaTeX Info: Redefining \textmicrotypecontext on input line 1354.
+\MT@listname@count=\count179
+
+(/usr/share/texmf-dist/tex/latex/microtype/microtype-pdftex.def
+File: microtype-pdftex.def 2019/11/18 v2.7d Definitions specific to pdftex (RS)
+
+LaTeX Info: Redefining \lsstyle on input line 914.
+LaTeX Info: Redefining \lslig on input line 914.
+\MT@outer@space=\skip49
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+
+(/usr/share/texmf-dist/tex/latex/microtype/microtype.cfg
+File: microtype.cfg 2019/11/18 v2.7d microtype main configuration file (RS)
+))
+(/usr/share/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
+\c@tracingmulticols=\count180
+\mult@box=\box45
+\multicol@leftmargin=\dimen144
+\c@unbalance=\count181
+\c@collectmore=\count182
+\doublecol@number=\count183
+\multicoltolerance=\count184
+\multicolpretolerance=\count185
+\full@width=\dimen145
+\page@free=\dimen146
+\premulticols=\dimen147
+\postmulticols=\dimen148
+\multicolsep=\skip50
+\multicolbaselineskip=\skip51
+\partial@page=\box46
+\last@line=\box47
+\maxbalancingoverflow=\dimen149
+\mult@rightbox=\box48
+\mult@grightbox=\box49
+\mult@gfirstbox=\box50
+\mult@firstbox=\box51
+\@tempa=\box52
+\@tempa=\box53
+\@tempa=\box54
+\@tempa=\box55
+\@tempa=\box56
+\@tempa=\box57
+\@tempa=\box58
+\@tempa=\box59
+\@tempa=\box60
+\@tempa=\box61
+\@tempa=\box62
+\@tempa=\box63
+\@tempa=\box64
+\@tempa=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\c@minrows=\count186
+\c@columnbadness=\count187
+\c@finalcolumnbadness=\count188
+\last@try=\dimen150
+\multicolovershoot=\dimen151
+\multicolundershoot=\dimen152
+\mult@nat@firstbox=\box89
+\colbreak@box=\box90
+\mc@col@check@num=\count189
+)
+(/usr/share/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2019/10/16 v2.13 Sectioning titles
+\ttl@box=\box91
+\beforetitleunit=\skip52
+\aftertitleunit=\skip53
+\ttl@plus=\dimen153
+\ttl@minus=\dimen154
+\ttl@toksa=\toks20
+\titlewidth=\dimen155
+\titlewidthlast=\dimen156
+\titlewidthfirst=\dimen157
+)
+(/usr/share/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
+s
+\f@nch@headwidth=\skip54
+\f@nch@O@elh=\skip55
+\f@nch@O@erh=\skip56
+\f@nch@O@olh=\skip57
+\f@nch@O@orh=\skip58
+\f@nch@O@elf=\skip59
+\f@nch@O@erf=\skip60
+\f@nch@O@olf=\skip61
+\f@nch@O@orf=\skip62
+)
+(/usr/share/texmf-dist/tex/latex/l3backend/l3backend-dvips.def
+File: l3backend-dvips.def 2020-06-03 L3 backend support: dvips
+\l__pdf_internal_box=\box92
+\g__pdf_backend_object_int=\count190
+\l__pdf_backend_content_box=\box93
+\l__pdf_backend_model_box=\box94
+\g__pdf_backend_annotation_int=\count191
+\g__pdf_backend_link_int=\count192
+\g__pdf_backend_link_sf_int=\count193
+) (./template.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Trying to load font information for T1+ppl on input line 48
+.
+ (/usr/share/texmf-dist/tex/latex/psnfss/t1ppl.fd
+File: t1ppl.fd 2001/06/04 font definitions for T1/ppl.
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: dvips
+*geometry* verbose mode - [ preamble ] result:
+* driver: dvips
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(91.04872pt, 392.64813pt, 113.81102pt)
+* v-part:(T,H,B)=(99.58464pt, 645.87756pt, 99.58464pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=392.64813pt
+* \textheight=645.87756pt
+* \oddsidemargin=18.77873pt
+* \evensidemargin=41.54103pt
+* \topmargin=-9.68535pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=85.0pt
+* \marginparsep=10.0pt
+* \columnsep=30.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Info: Redefining \microtypecontext on input line 48.
+Package microtype Info: Generating DVI output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: No font expansion.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+(/usr/share/texmf-dist/tex/latex/microtype/mt-ppl.cfg
+File: mt-ppl.cfg 2005/11/16 v1.6 microtype config. file: Palatino (RS)
+) [1
+
+] [2]
+(/usr/share/texmf-dist/tex/latex/microtype/mt-cmr.cfg
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
+(RS)
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 70.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 70.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 70.
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--89
+[]\T1/ppl/b/n/12 addled $\OMS/cmsy/m/n/12 ^^O$ \T1/ppl/m/n/12 Un-able to think
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--97
+[]\T1/ppl/b/n/12 affable $\OMS/cmsy/m/n/12 ^^O$ \T1/ppl/m/n/12 Friendly, good-
+ []
+
+
+Underfull \hbox (badness 5345) in paragraph at lines 106--107
+\T1/ppl/m/n/12 who takes dic-ta-tion or copies
+ []
+
+
+Underfull \hbox (badness 6641) in paragraph at lines 136--137
+[]\T1/ppl/b/n/12 athame $\OMS/cmsy/m/n/12 ^^O$ \T1/ppl/m/n/12 A black-handled,
+ []
+
+LaTeX Font Info:    Trying to load font information for T1+phv on input line 13
+7.
+(/usr/share/texmf-dist/tex/latex/psnfss/t1phv.fd
+File: t1phv.fd 2020/03/25 scalable font definitions for T1/phv.
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `phv' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+Make it at least 14.49998pt.
+We now make it that large for the rest of the document.
+This may cause the page layout to be inconsistent, however.
+
+[3]
+Underfull \hbox (badness 6876) in paragraph at lines 154--155
+\T1/ppl/m/n/12 green woollen ma-te-rial re-sem-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--159
+[]\T1/ppl/b/n/12 balmy $\OMS/cmsy/m/n/12 ^^O$ \T1/ppl/m/n/12 Char-ac-ter-ized b
+y
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 160--161
+[]\T1/ppl/b/n/12 banter $\OMS/cmsy/m/n/12 ^^O$ \T1/ppl/m/n/12 The play-ful and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 166--167
+[]\T1/ppl/b/n/12 basked $\OMS/cmsy/m/n/12 ^^O$ \T1/ppl/m/n/12 Lie ex-posed to
+ []
+
+
+Underfull \hbox (badness 7814) in paragraph at lines 168--169
+[]\T1/ppl/b/n/12 basking $\OMS/cmsy/m/n/12 ^^O$ \T1/ppl/m/n/12 Lie ex-posed to
+ []
+
+
+Underfull \hbox (badness 7468) in paragraph at lines 194--195
+[]\T1/ppl/b/n/12 bender $\OMS/cmsy/m/n/12 ^^O$ \T1/ppl/m/n/12 a wild drink-ing
+ []
+
+[4]
+Underfull \hbox (badness 5077) in paragraph at lines 224--225
+[]\T1/ppl/b/n/12 brazenly $\OMS/cmsy/m/n/12 ^^O$ \T1/ppl/m/n/12 In a bold and
+ []
+
+
+Underfull \hbox (badness 6284) in paragraph at lines 244--245
+[]\T1/ppl/b/n/12 butterface $\OMS/cmsy/m/n/12 ^^O$ \T1/ppl/m/n/12 A woman re-
+ []
+
+[5]
+Underfull \hbox (badness 7814) in paragraph at lines 292--293
+[]\T1/ppl/b/n/12 chinoiserie $\OMS/cmsy/m/n/12 ^^O$ \T1/ppl/m/n/12 A dec-o-ra-t
+ive
+ []
+
+[6]
+Underfull \hbox (badness 5681) in paragraph at lines 338--339
+[]\T1/ppl/b/n/12 crabbed $\OMS/cmsy/m/n/12 ^^O$ \T1/ppl/m/n/12 (of hand-writ-in
+g)
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 360--361
+[]\T1/ppl/b/n/12 curmudgeon $\OMS/cmsy/m/n/12 ^^O$ \T1/ppl/m/n/12 A bad-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 394--395
+[]\T1/ppl/b/n/12 derision $\OMS/cmsy/m/n/12 ^^O$ \T1/ppl/m/n/12 Con-temp-tu-ous
+
+ []
+
+[7]
+Underfull \hbox (badness 7504) in paragraph at lines 426--427
+[]\T1/ppl/b/n/12 doolally $\OMS/cmsy/m/n/12 ^^O$ \T1/ppl/m/n/12 Tem-porar-ily d
+e-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 432--433
+[]\T1/ppl/b/n/12 dost $\OMS/cmsy/m/n/12 ^^O$ \T1/ppl/m/n/12 Ar-chaic sec-ond
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 432--433
+\T1/ppl/m/n/12 per-son sin-gu-lar present of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 434--435
+[]\T1/ppl/b/n/12 dour $\OMS/cmsy/m/n/12 ^^O$ \T1/ppl/m/n/12 Re-lent-lessly se-v
+ere,
+ []
+
+[8]
+Underfull \hbox (badness 10000) in paragraph at lines 485--486
+[]\T1/ppl/b/n/12 equable $\OMS/cmsy/m/n/12 ^^O$ \T1/ppl/m/n/12 Not eas-ily dis-
+
+ []
+
+
+Underfull \hbox (badness 7796) in paragraph at lines 505--506
+[]\T1/ppl/b/n/12 exophthalmic $\OMS/cmsy/m/n/12 ^^O$ \T1/ppl/m/n/12 Hav-ing or
+ []
+
+[9]
+Underfull \hbox (badness 10000) in paragraph at lines 558--559
+[]\T1/ppl/b/n/12 forbearance $\OMS/cmsy/m/n/12 ^^O$ \T1/ppl/m/n/12 Pa-tient sel
+f-
+ []
+
+
+Underfull \hbox (badness 7981) in paragraph at lines 572--573
+[]\T1/ppl/b/n/12 frumpiest $\OMS/cmsy/m/n/12 ^^O$ \T1/ppl/m/n/12 (of a woman
+ []
+
+
+Underfull \hbox (badness 5359) in paragraph at lines 611--612
+[]\T1/ppl/b/n/12 garnering $\OMS/cmsy/m/n/12 ^^O$ \T1/ppl/m/n/12 Gather or col-
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 615--616
+[]\T1/ppl/b/n/12 garrulous $\OMS/cmsy/m/n/12 ^^O$ \T1/ppl/m/n/12 Ex-ces-sively
+ []
+
+[10]
+Underfull \hbox (badness 10000) in paragraph at lines 631--632
+\T1/ppl/m/n/12 beam or com-pound struc-ture
+ []
+
+
+Underfull \hbox (badness 7907) in paragraph at lines 639--640
+[]\T1/ppl/b/n/12 goad $\OMS/cmsy/m/n/12 ^^O$ \T1/ppl/m/n/12 Pro-voke or an-noy
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 659--660
+[]\T1/ppl/b/n/12 grouse $\OMS/cmsy/m/n/12 ^^O$ \T1/ppl/m/n/12 Com-plain about
+ []
+
+[11]
+Underfull \hbox (badness 10000) in paragraph at lines 706--707
+[]\T1/ppl/b/n/12 hock $\OMS/cmsy/m/n/12 ^^O$ \T1/ppl/m/n/12 The joint in a
+ []
+
+
+Underfull \hbox (badness 6001) in paragraph at lines 712--713
+\T1/ppl/m/n/12 com-fort-able, as in one's own
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 722--723
+[]\T1/ppl/b/n/12 hussars $\OMS/cmsy/m/n/12 ^^O$ \T1/ppl/m/n/12 A sol-dier in a
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 745--746
+[]\T1/ppl/b/n/12 imprecations $\OMS/cmsy/m/n/12 ^^O$ \T1/ppl/m/n/12 A spo-ken
+ []
+
+[12]
+Underfull \hbox (badness 10000) in paragraph at lines 771--772
+[]\T1/ppl/b/n/12 insipid $\OMS/cmsy/m/n/12 ^^O$ \T1/ppl/m/n/12 Lack-ing flavour
+;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 783--784
+[]\T1/ppl/b/n/12 inundated $\OMS/cmsy/m/n/12 ^^O$ \T1/ppl/m/n/12 Over-whelm
+ []
+
+
+Underfull \hbox (badness 6792) in paragraph at lines 799--800
+[]\T1/ppl/b/n/12 itinerant $\OMS/cmsy/m/n/12 ^^O$ \T1/ppl/m/n/12 Trav-el-ling f
+rom
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 815--816
+[]\T1/ppl/b/n/12 juddering $\OMS/cmsy/m/n/12 ^^O$ \T1/ppl/m/n/12 (es-pe-cially 
+of
+ []
+
+[13] [14]
+Underfull \hbox (badness 10000) in paragraph at lines 908--909
+[]\T1/ppl/b/n/12 maelstrom $\OMS/cmsy/m/n/12 ^^O$ \T1/ppl/m/n/12 A pow-er-ful
+ []
+
+
+Underfull \hbox (badness 5696) in paragraph at lines 962--963
+\T1/ppl/m/n/12 ac-ter-is-tic cus-toms and con-ven-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 966--967
+[]\T1/ppl/b/n/12 morose $\OMS/cmsy/m/n/12 ^^O$ \T1/ppl/m/n/12 Sullen and ill-
+ []
+
+[15]
+Underfull \hbox (badness 10000) in paragraph at lines 980--981
+[]\T1/ppl/b/n/12 muzzy $\OMS/cmsy/m/n/12 ^^O$ \T1/ppl/m/n/12 Un-able to think
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 993--994
+[]\T1/ppl/b/n/12 ninepins $\OMS/cmsy/m/n/12 ^^O$ \T1/ppl/m/n/12 The tra-di-tion
+al
+ []
+
+[16]
+Underfull \hbox (badness 6825) in paragraph at lines 1066--1067
+[]\T1/ppl/b/n/12 pettish $\OMS/cmsy/m/n/12 ^^O$ \T1/ppl/m/n/12 (of a per-son or
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1100--1101
+[]\T1/ppl/b/n/12 protuberant $\OMS/cmsy/m/n/12 ^^O$ \T1/ppl/m/n/12 Pro-trud-ing
+;
+ []
+
+[17]
+Underfull \hbox (badness 10000) in paragraph at lines 1119--1120
+\T1/ppl/m/n/12 es-pe-cially an al-co-holic drink)
+ []
+
+
+Underfull \hbox (badness 6220) in paragraph at lines 1134--1135
+[]\T1/ppl/b/n/12 raggle-taggle $\OMS/cmsy/m/n/12 ^^O$ \T1/ppl/m/n/12 un-tidy an
+d
+ []
+
+
+Underfull \hbox (badness 5924) in paragraph at lines 1140--1141
+[]\T1/ppl/b/n/12 rancour $\OMS/cmsy/m/n/12 ^^O$ \T1/ppl/m/n/12 Bit-ter-ness or 
+re-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1142--1143
+[]\T1/ppl/b/n/12 rapacious $\OMS/cmsy/m/n/12 ^^O$ \T1/ppl/m/n/12 Ag-gres-sively
+
+ []
+
+
+Underfull \hbox (badness 7326) in paragraph at lines 1154--1155
+[]\T1/ppl/b/n/12 recrudescence $\OMS/cmsy/m/n/12 ^^O$ \T1/ppl/m/n/12 The re-cur
+-
+ []
+
+[18]
+Underfull \hbox (badness 10000) in paragraph at lines 1193--1194
+[]\T1/ppl/b/n/12 salubrious $\OMS/cmsy/m/n/12 ^^O$ \T1/ppl/m/n/12 Health-giving
+;
+ []
+
+
+Underfull \hbox (badness 7685) in paragraph at lines 1197--1198
+[]\T1/ppl/b/n/12 sangfroid $\OMS/cmsy/m/n/12 ^^O$ \T1/ppl/m/n/12 Com-po-sure or
+
+ []
+
+
+Underfull \hbox (badness 8170) in paragraph at lines 1221--1222
+\T1/ppl/m/n/12 small an-i-mal) move hur-riedly
+ []
+
+
+Underfull \hbox (badness 5147) in paragraph at lines 1237--1238
+[]\T1/ppl/b/n/12 skivvy $\OMS/cmsy/m/n/12 ^^O$ \T1/ppl/m/n/12 A fe-male do-mes-
+
+ []
+
+[19]
+Underfull \hbox (badness 10000) in paragraph at lines 1253--1254
+[]\T1/ppl/b/n/12 snarling $\OMS/cmsy/m/n/12 ^^O$ \T1/ppl/m/n/12 En-tan-gle some
+-
+ []
+
+
+Underfull \hbox (badness 7273) in paragraph at lines 1257--1258
+\T1/ppl/m/n/12 uid, es-pe-cially wa-ter; soaked
+ []
+
+
+Underfull \hbox (badness 5696) in paragraph at lines 1279--1280
+[]\T1/ppl/b/n/12 stinkhorn $\OMS/cmsy/m/n/12 ^^O$ \T1/ppl/m/n/12 A widely dis-
+ []
+
+
+Underfull \hbox (badness 6141) in paragraph at lines 1279--1280
+\T1/ppl/m/n/12 whitish stem with a rounded
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1285--1286
+[]\T1/ppl/b/n/12 stratocaster $\OMS/cmsy/m/n/12 ^^O$ \T1/ppl/m/n/12 col-lo-qui-
+ally
+ []
+
+
+Underfull \hbox (badness 7273) in paragraph at lines 1287--1288
+[]\T1/ppl/b/n/12 stupor $\OMS/cmsy/m/n/12 ^^O$ \T1/ppl/m/n/12 A state of near-
+ []
+
+
+Underfull \hbox (badness 5607) in paragraph at lines 1295--1296
+\T1/ppl/m/n/12 im-por-tant enough to be men-
+ []
+
+
+Underfull \hbox (badness 5908) in paragraph at lines 1297--1298
+[]\T1/ppl/b/n/12 supercilious $\OMS/cmsy/m/n/12 ^^O$ \T1/ppl/m/n/12 be-hav-ing 
+or
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [20]
+Underfull \hbox (badness 5431) in paragraph at lines 1322--1323
+[]\T1/ppl/b/n/12 tetchy $\OMS/cmsy/m/n/12 ^^O$ \T1/ppl/m/n/12 Ir-ri-ta-ble and 
+bad-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1338--1339
+[]\T1/ppl/b/n/12 traipsed $\OMS/cmsy/m/n/12 ^^O$ \T1/ppl/m/n/12 Walk or move
+ []
+
+
+Underfull \vbox (badness 2772) has occurred while \output is active []
+
+ [21]
+Underfull \hbox (badness 10000) in paragraph at lines 1380--1381
+[]\T1/ppl/b/n/12 vainglorious $\OMS/cmsy/m/n/12 ^^O$ \T1/ppl/m/n/12 Ex-ces-sive
+ly
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1384--1385
+[]\T1/ppl/b/n/12 verdant $\OMS/cmsy/m/n/12 ^^O$ \T1/ppl/m/n/12 (of coun-try-sid
+e)
+ []
+
+[22] (./template.aux) ) 
+Here is how much of TeX's memory you used:
+ 3339 strings out of 480479
+ 53183 string characters out of 5905985
+ 347408 words of memory out of 5000000
+ 19371 multiletter control sequences out of 15000+600000
+ 542749 words of font info for 40 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 33i,11n,45p,266b,425s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on template.dvi (22 pages, 67804 bytes).
