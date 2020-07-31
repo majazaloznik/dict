@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=latex 2020.7.30)  31 JUL 2020 02:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=latex 2020.7.30)  31 JUL 2020 02:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -257,33 +257,33 @@ File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman
 (RS)
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 70.
+(Font)              <12> on input line 75.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 70.
+(Font)              <8> on input line 75.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 70.
+(Font)              <6> on input line 75.
 
-Underfull \hbox (badness 10000) in paragraph at lines 88--89
+Underfull \hbox (badness 10000) in paragraph at lines 93--94
 []\T1/ppl/b/n/12 addled $\OMS/cmsy/m/n/12 ^^O$ \T1/ppl/m/n/12 Un-able to think
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 96--97
+Underfull \hbox (badness 10000) in paragraph at lines 101--102
 []\T1/ppl/b/n/12 affable $\OMS/cmsy/m/n/12 ^^O$ \T1/ppl/m/n/12 Friendly, good-
  []
 
 
-Underfull \hbox (badness 5345) in paragraph at lines 106--107
+Underfull \hbox (badness 5345) in paragraph at lines 111--112
 \T1/ppl/m/n/12 who takes dic-ta-tion or copies
  []
 
 
-Underfull \hbox (badness 6641) in paragraph at lines 136--137
+Underfull \hbox (badness 6641) in paragraph at lines 141--142
 []\T1/ppl/b/n/12 athame $\OMS/cmsy/m/n/12 ^^O$ \T1/ppl/m/n/12 A black-handled,
  []
 
-LaTeX Font Info:    Trying to load font information for T1+phv on input line 13
-7.
+LaTeX Font Info:    Trying to load font information for T1+phv on input line 14
+2.
 (/usr/share/texmf-dist/tex/latex/psnfss/t1phv.fd
 File: t1phv.fd 2020/03/25 scalable font definitions for T1/phv.
 )
@@ -299,311 +299,311 @@ We now make it that large for the rest of the document.
 This may cause the page layout to be inconsistent, however.
 
 [3]
-Underfull \hbox (badness 6876) in paragraph at lines 154--155
+Underfull \hbox (badness 6876) in paragraph at lines 159--160
 \T1/ppl/m/n/12 green woollen ma-te-rial re-sem-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 158--159
+Underfull \hbox (badness 10000) in paragraph at lines 163--164
 []\T1/ppl/b/n/12 balmy $\OMS/cmsy/m/n/12 ^^O$ \T1/ppl/m/n/12 Char-ac-ter-ized b
 y
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 160--161
+Underfull \hbox (badness 10000) in paragraph at lines 165--166
 []\T1/ppl/b/n/12 banter $\OMS/cmsy/m/n/12 ^^O$ \T1/ppl/m/n/12 The play-ful and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 166--167
+Underfull \hbox (badness 10000) in paragraph at lines 171--172
 []\T1/ppl/b/n/12 basked $\OMS/cmsy/m/n/12 ^^O$ \T1/ppl/m/n/12 Lie ex-posed to
  []
 
 
-Underfull \hbox (badness 7814) in paragraph at lines 168--169
+Underfull \hbox (badness 7814) in paragraph at lines 173--174
 []\T1/ppl/b/n/12 basking $\OMS/cmsy/m/n/12 ^^O$ \T1/ppl/m/n/12 Lie ex-posed to
  []
 
 
-Underfull \hbox (badness 7468) in paragraph at lines 194--195
+Underfull \hbox (badness 7468) in paragraph at lines 199--200
 []\T1/ppl/b/n/12 bender $\OMS/cmsy/m/n/12 ^^O$ \T1/ppl/m/n/12 a wild drink-ing
  []
 
 [4]
-Underfull \hbox (badness 5077) in paragraph at lines 224--225
+Underfull \hbox (badness 5077) in paragraph at lines 229--230
 []\T1/ppl/b/n/12 brazenly $\OMS/cmsy/m/n/12 ^^O$ \T1/ppl/m/n/12 In a bold and
  []
 
 
-Underfull \hbox (badness 6284) in paragraph at lines 244--245
+Underfull \hbox (badness 6284) in paragraph at lines 249--250
 []\T1/ppl/b/n/12 butterface $\OMS/cmsy/m/n/12 ^^O$ \T1/ppl/m/n/12 A woman re-
  []
 
 [5]
-Underfull \hbox (badness 7814) in paragraph at lines 292--293
+Underfull \hbox (badness 7814) in paragraph at lines 297--298
 []\T1/ppl/b/n/12 chinoiserie $\OMS/cmsy/m/n/12 ^^O$ \T1/ppl/m/n/12 A dec-o-ra-t
 ive
  []
 
 [6]
-Underfull \hbox (badness 5681) in paragraph at lines 338--339
+Underfull \hbox (badness 5681) in paragraph at lines 343--344
 []\T1/ppl/b/n/12 crabbed $\OMS/cmsy/m/n/12 ^^O$ \T1/ppl/m/n/12 (of hand-writ-in
 g)
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 360--361
+Underfull \hbox (badness 10000) in paragraph at lines 365--366
 []\T1/ppl/b/n/12 curmudgeon $\OMS/cmsy/m/n/12 ^^O$ \T1/ppl/m/n/12 A bad-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 394--395
+Underfull \hbox (badness 10000) in paragraph at lines 399--400
 []\T1/ppl/b/n/12 derision $\OMS/cmsy/m/n/12 ^^O$ \T1/ppl/m/n/12 Con-temp-tu-ous
 
  []
 
 [7]
-Underfull \hbox (badness 7504) in paragraph at lines 426--427
+Underfull \hbox (badness 7504) in paragraph at lines 431--432
 []\T1/ppl/b/n/12 doolally $\OMS/cmsy/m/n/12 ^^O$ \T1/ppl/m/n/12 Tem-porar-ily d
 e-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 432--433
+Underfull \hbox (badness 10000) in paragraph at lines 437--438
 []\T1/ppl/b/n/12 dost $\OMS/cmsy/m/n/12 ^^O$ \T1/ppl/m/n/12 Ar-chaic sec-ond
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 432--433
+Underfull \hbox (badness 10000) in paragraph at lines 437--438
 \T1/ppl/m/n/12 per-son sin-gu-lar present of
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 434--435
+Underfull \hbox (badness 10000) in paragraph at lines 439--440
 []\T1/ppl/b/n/12 dour $\OMS/cmsy/m/n/12 ^^O$ \T1/ppl/m/n/12 Re-lent-lessly se-v
 ere,
  []
 
 [8]
-Underfull \hbox (badness 10000) in paragraph at lines 485--486
+Underfull \hbox (badness 10000) in paragraph at lines 490--491
 []\T1/ppl/b/n/12 equable $\OMS/cmsy/m/n/12 ^^O$ \T1/ppl/m/n/12 Not eas-ily dis-
 
  []
 
 
-Underfull \hbox (badness 7796) in paragraph at lines 505--506
+Underfull \hbox (badness 7796) in paragraph at lines 510--511
 []\T1/ppl/b/n/12 exophthalmic $\OMS/cmsy/m/n/12 ^^O$ \T1/ppl/m/n/12 Hav-ing or
  []
 
 [9]
-Underfull \hbox (badness 10000) in paragraph at lines 558--559
+Underfull \hbox (badness 10000) in paragraph at lines 563--564
 []\T1/ppl/b/n/12 forbearance $\OMS/cmsy/m/n/12 ^^O$ \T1/ppl/m/n/12 Pa-tient sel
 f-
  []
 
 
-Underfull \hbox (badness 7981) in paragraph at lines 572--573
+Underfull \hbox (badness 7981) in paragraph at lines 577--578
 []\T1/ppl/b/n/12 frumpiest $\OMS/cmsy/m/n/12 ^^O$ \T1/ppl/m/n/12 (of a woman
  []
 
 
-Underfull \hbox (badness 5359) in paragraph at lines 611--612
+Underfull \hbox (badness 5359) in paragraph at lines 616--617
 []\T1/ppl/b/n/12 garnering $\OMS/cmsy/m/n/12 ^^O$ \T1/ppl/m/n/12 Gather or col-
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 615--616
+Underfull \hbox (badness 10000) in paragraph at lines 620--621
 []\T1/ppl/b/n/12 garrulous $\OMS/cmsy/m/n/12 ^^O$ \T1/ppl/m/n/12 Ex-ces-sively
  []
 
 [10]
-Underfull \hbox (badness 10000) in paragraph at lines 631--632
+Underfull \hbox (badness 10000) in paragraph at lines 636--637
 \T1/ppl/m/n/12 beam or com-pound struc-ture
  []
 
 
-Underfull \hbox (badness 7907) in paragraph at lines 639--640
+Underfull \hbox (badness 7907) in paragraph at lines 644--645
 []\T1/ppl/b/n/12 goad $\OMS/cmsy/m/n/12 ^^O$ \T1/ppl/m/n/12 Pro-voke or an-noy
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 659--660
+Underfull \hbox (badness 10000) in paragraph at lines 664--665
 []\T1/ppl/b/n/12 grouse $\OMS/cmsy/m/n/12 ^^O$ \T1/ppl/m/n/12 Com-plain about
  []
 
 [11]
-Underfull \hbox (badness 10000) in paragraph at lines 706--707
+Underfull \hbox (badness 10000) in paragraph at lines 711--712
 []\T1/ppl/b/n/12 hock $\OMS/cmsy/m/n/12 ^^O$ \T1/ppl/m/n/12 The joint in a
  []
 
 
-Underfull \hbox (badness 6001) in paragraph at lines 712--713
+Underfull \hbox (badness 6001) in paragraph at lines 717--718
 \T1/ppl/m/n/12 com-fort-able, as in one's own
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 722--723
+Underfull \hbox (badness 10000) in paragraph at lines 727--728
 []\T1/ppl/b/n/12 hussars $\OMS/cmsy/m/n/12 ^^O$ \T1/ppl/m/n/12 A sol-dier in a
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 745--746
+Underfull \hbox (badness 10000) in paragraph at lines 750--751
 []\T1/ppl/b/n/12 imprecations $\OMS/cmsy/m/n/12 ^^O$ \T1/ppl/m/n/12 A spo-ken
  []
 
 [12]
-Underfull \hbox (badness 10000) in paragraph at lines 771--772
+Underfull \hbox (badness 10000) in paragraph at lines 776--777
 []\T1/ppl/b/n/12 insipid $\OMS/cmsy/m/n/12 ^^O$ \T1/ppl/m/n/12 Lack-ing flavour
 ;
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 783--784
+Underfull \hbox (badness 10000) in paragraph at lines 788--789
 []\T1/ppl/b/n/12 inundated $\OMS/cmsy/m/n/12 ^^O$ \T1/ppl/m/n/12 Over-whelm
  []
 
 
-Underfull \hbox (badness 6792) in paragraph at lines 799--800
+Underfull \hbox (badness 6792) in paragraph at lines 804--805
 []\T1/ppl/b/n/12 itinerant $\OMS/cmsy/m/n/12 ^^O$ \T1/ppl/m/n/12 Trav-el-ling f
 rom
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 815--816
+Underfull \hbox (badness 10000) in paragraph at lines 820--821
 []\T1/ppl/b/n/12 juddering $\OMS/cmsy/m/n/12 ^^O$ \T1/ppl/m/n/12 (es-pe-cially 
 of
  []
 
 [13] [14]
-Underfull \hbox (badness 10000) in paragraph at lines 908--909
+Underfull \hbox (badness 10000) in paragraph at lines 913--914
 []\T1/ppl/b/n/12 maelstrom $\OMS/cmsy/m/n/12 ^^O$ \T1/ppl/m/n/12 A pow-er-ful
  []
 
 
-Underfull \hbox (badness 5696) in paragraph at lines 962--963
+Underfull \hbox (badness 5696) in paragraph at lines 967--968
 \T1/ppl/m/n/12 ac-ter-is-tic cus-toms and con-ven-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 966--967
+Underfull \hbox (badness 10000) in paragraph at lines 971--972
 []\T1/ppl/b/n/12 morose $\OMS/cmsy/m/n/12 ^^O$ \T1/ppl/m/n/12 Sullen and ill-
  []
 
 [15]
-Underfull \hbox (badness 10000) in paragraph at lines 980--981
+Underfull \hbox (badness 10000) in paragraph at lines 985--986
 []\T1/ppl/b/n/12 muzzy $\OMS/cmsy/m/n/12 ^^O$ \T1/ppl/m/n/12 Un-able to think
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 993--994
+Underfull \hbox (badness 10000) in paragraph at lines 998--999
 []\T1/ppl/b/n/12 ninepins $\OMS/cmsy/m/n/12 ^^O$ \T1/ppl/m/n/12 The tra-di-tion
 al
  []
 
 [16]
-Underfull \hbox (badness 6825) in paragraph at lines 1066--1067
+Underfull \hbox (badness 6825) in paragraph at lines 1071--1072
 []\T1/ppl/b/n/12 pettish $\OMS/cmsy/m/n/12 ^^O$ \T1/ppl/m/n/12 (of a per-son or
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1100--1101
+Underfull \hbox (badness 10000) in paragraph at lines 1105--1106
 []\T1/ppl/b/n/12 protuberant $\OMS/cmsy/m/n/12 ^^O$ \T1/ppl/m/n/12 Pro-trud-ing
 ;
  []
 
 [17]
-Underfull \hbox (badness 10000) in paragraph at lines 1119--1120
+Underfull \hbox (badness 10000) in paragraph at lines 1124--1125
 \T1/ppl/m/n/12 es-pe-cially an al-co-holic drink)
  []
 
 
-Underfull \hbox (badness 6220) in paragraph at lines 1134--1135
+Underfull \hbox (badness 6220) in paragraph at lines 1139--1140
 []\T1/ppl/b/n/12 raggle-taggle $\OMS/cmsy/m/n/12 ^^O$ \T1/ppl/m/n/12 un-tidy an
 d
  []
 
 
-Underfull \hbox (badness 5924) in paragraph at lines 1140--1141
+Underfull \hbox (badness 5924) in paragraph at lines 1145--1146
 []\T1/ppl/b/n/12 rancour $\OMS/cmsy/m/n/12 ^^O$ \T1/ppl/m/n/12 Bit-ter-ness or 
 re-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1142--1143
+Underfull \hbox (badness 10000) in paragraph at lines 1147--1148
 []\T1/ppl/b/n/12 rapacious $\OMS/cmsy/m/n/12 ^^O$ \T1/ppl/m/n/12 Ag-gres-sively
 
  []
 
 
-Underfull \hbox (badness 7326) in paragraph at lines 1154--1155
+Underfull \hbox (badness 7326) in paragraph at lines 1159--1160
 []\T1/ppl/b/n/12 recrudescence $\OMS/cmsy/m/n/12 ^^O$ \T1/ppl/m/n/12 The re-cur
 -
  []
 
 [18]
-Underfull \hbox (badness 10000) in paragraph at lines 1193--1194
+Underfull \hbox (badness 10000) in paragraph at lines 1198--1199
 []\T1/ppl/b/n/12 salubrious $\OMS/cmsy/m/n/12 ^^O$ \T1/ppl/m/n/12 Health-giving
 ;
  []
 
 
-Underfull \hbox (badness 7685) in paragraph at lines 1197--1198
+Underfull \hbox (badness 7685) in paragraph at lines 1202--1203
 []\T1/ppl/b/n/12 sangfroid $\OMS/cmsy/m/n/12 ^^O$ \T1/ppl/m/n/12 Com-po-sure or
 
  []
 
 
-Underfull \hbox (badness 8170) in paragraph at lines 1221--1222
+Underfull \hbox (badness 8170) in paragraph at lines 1226--1227
 \T1/ppl/m/n/12 small an-i-mal) move hur-riedly
  []
 
 
-Underfull \hbox (badness 5147) in paragraph at lines 1237--1238
+Underfull \hbox (badness 5147) in paragraph at lines 1242--1243
 []\T1/ppl/b/n/12 skivvy $\OMS/cmsy/m/n/12 ^^O$ \T1/ppl/m/n/12 A fe-male do-mes-
 
  []
 
 [19]
-Underfull \hbox (badness 10000) in paragraph at lines 1253--1254
+Underfull \hbox (badness 10000) in paragraph at lines 1258--1259
 []\T1/ppl/b/n/12 snarling $\OMS/cmsy/m/n/12 ^^O$ \T1/ppl/m/n/12 En-tan-gle some
 -
  []
 
 
-Underfull \hbox (badness 7273) in paragraph at lines 1257--1258
+Underfull \hbox (badness 7273) in paragraph at lines 1262--1263
 \T1/ppl/m/n/12 uid, es-pe-cially wa-ter; soaked
  []
 
 
-Underfull \hbox (badness 5696) in paragraph at lines 1279--1280
+Underfull \hbox (badness 5696) in paragraph at lines 1284--1285
 []\T1/ppl/b/n/12 stinkhorn $\OMS/cmsy/m/n/12 ^^O$ \T1/ppl/m/n/12 A widely dis-
  []
 
 
-Underfull \hbox (badness 6141) in paragraph at lines 1279--1280
+Underfull \hbox (badness 6141) in paragraph at lines 1284--1285
 \T1/ppl/m/n/12 whitish stem with a rounded
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1285--1286
+Underfull \hbox (badness 10000) in paragraph at lines 1290--1291
 []\T1/ppl/b/n/12 stratocaster $\OMS/cmsy/m/n/12 ^^O$ \T1/ppl/m/n/12 col-lo-qui-
 ally
  []
 
 
-Underfull \hbox (badness 7273) in paragraph at lines 1287--1288
+Underfull \hbox (badness 7273) in paragraph at lines 1292--1293
 []\T1/ppl/b/n/12 stupor $\OMS/cmsy/m/n/12 ^^O$ \T1/ppl/m/n/12 A state of near-
  []
 
 
-Underfull \hbox (badness 5607) in paragraph at lines 1295--1296
+Underfull \hbox (badness 5607) in paragraph at lines 1300--1301
 \T1/ppl/m/n/12 im-por-tant enough to be men-
  []
 
 
-Underfull \hbox (badness 5908) in paragraph at lines 1297--1298
+Underfull \hbox (badness 5908) in paragraph at lines 1302--1303
 []\T1/ppl/b/n/12 supercilious $\OMS/cmsy/m/n/12 ^^O$ \T1/ppl/m/n/12 be-hav-ing 
 or
  []
@@ -612,13 +612,13 @@ or
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [20]
-Underfull \hbox (badness 5431) in paragraph at lines 1322--1323
+Underfull \hbox (badness 5431) in paragraph at lines 1327--1328
 []\T1/ppl/b/n/12 tetchy $\OMS/cmsy/m/n/12 ^^O$ \T1/ppl/m/n/12 Ir-ri-ta-ble and 
 bad-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1338--1339
+Underfull \hbox (badness 10000) in paragraph at lines 1343--1344
 []\T1/ppl/b/n/12 traipsed $\OMS/cmsy/m/n/12 ^^O$ \T1/ppl/m/n/12 Walk or move
  []
 
@@ -626,25 +626,31 @@ Underfull \hbox (badness 10000) in paragraph at lines 1338--1339
 Underfull \vbox (badness 2772) has occurred while \output is active []
 
  [21]
-Underfull \hbox (badness 10000) in paragraph at lines 1380--1381
+Underfull \hbox (badness 10000) in paragraph at lines 1385--1386
 []\T1/ppl/b/n/12 vainglorious $\OMS/cmsy/m/n/12 ^^O$ \T1/ppl/m/n/12 Ex-ces-sive
 ly
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1384--1385
+Underfull \hbox (badness 10000) in paragraph at lines 1389--1390
 []\T1/ppl/b/n/12 verdant $\OMS/cmsy/m/n/12 ^^O$ \T1/ppl/m/n/12 (of coun-try-sid
 e)
  []
 
-[22] (./template.aux) ) 
+[22]
+LaTeX Font Info:    Trying to load font information for TS1+ppl on input line 1
+448.
+ (/usr/share/texmf-dist/tex/latex/psnfss/ts1ppl.fd
+File: ts1ppl.fd 2001/06/04 font definitions for TS1/ppl.
+) [23] [24]
+(./template.aux) ) 
 Here is how much of TeX's memory you used:
- 3339 strings out of 480479
- 53183 string characters out of 5905985
+ 3365 strings out of 480479
+ 53564 string characters out of 5905985
  347408 words of memory out of 5000000
- 19371 multiletter control sequences out of 15000+600000
- 542749 words of font info for 40 fonts, out of 8000000 for 9000
+ 19393 multiletter control sequences out of 15000+600000
+ 543062 words of font info for 41 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  33i,11n,45p,266b,425s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on template.dvi (22 pages, 67804 bytes).
+Output written on template.dvi (24 pages, 68064 bytes).
